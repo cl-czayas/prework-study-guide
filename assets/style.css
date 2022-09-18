@@ -29,6 +29,12 @@
     font-size: 20px;
    }
    
+   ol {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+   }
+
    p {
     text-align: center;
     font-size: 30px;
